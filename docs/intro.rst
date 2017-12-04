@@ -36,7 +36,7 @@ AWS Marketplaceからテンプレートを起動します。 また、公式のF
   
 - `IAM <http://docs.aws.amazon.com/ja_jp/IAM/latest/UserGuide/id_roles.html>`__ ロール：必要となる権限の設定用
 - `ELB <http://docs.aws.amazon.com/ja_jp/elasticloadbalancing/latest/classic/elb-getting-started.html>`__ ： バックエンドサーバー用
-- `ELB <http://docs.aws.amazon.com/ja_jp/elasticloadbalancing/latest/classic/elb-getting-started.html>`__ ：F5 WAF VE用
+- `ELB <http://docs.aws.amazon.com/ja_jp/elasticloadbalancing/latest/classic/elb-getting-started.html>`__ ： F5 WAF VE用
 
 .. NOTE::
   このCloudFormationテンプレート(以下、CFT)の公式の要件リストについては、以下を参照してください。

@@ -78,10 +78,9 @@ rst_prolog = """
 
 if 'github_repo' in locals() and len(github_repo) > 0:
     rst_prolog += """
-.. |repoinfo| replace:: The content contained here leverages a full DevOps CI/CD
-              pipeline and is sourced from the GitHub repository at %s.
-              Bugs and Requests for enhancements can be made using by
-              opening an Issue within the repository.
+.. |repoinfo| replace:: このガイドのコンテンツは、完全な
+　　　　　　　　　　　DevOps CI /CDパイプラインを活用しており、以下のGitHubリポジトリから取得可能です。 
+　　　　　　　　　　　%s
 """ % (github_repo)
 else:
     rst_prolog += """
