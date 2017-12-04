@@ -93,6 +93,9 @@ on_snops = os.environ.get('SNOPS_ISALIVE', None) == 'True'
 print "on_rtd = %s" % on_rtd
 print "on_snops = %s" % on_snops
 
+# The master toctree document.
+master_doc = 'index'
+
 # General information about the project.
 project = u'F5 WAF Autoscale AWS Guide'
 copyright = u'2017, Terence Kam (F5)'
