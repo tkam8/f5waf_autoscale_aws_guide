@@ -36,3 +36,8 @@ Scale outイベントの確認
 
 新しいF5 WAFが既存の同期グループに参加すると、すべての設定が同期され、
 **Status** が **InService** に変更されます。 
+
+.. |task-7-1| image:: images/task-7-1.png
+.. |task-7-2| image:: images/task-7-2.png
+.. |task-7-3| image:: images/task-7-3.png
+.. |task-7-4| image:: images/task-7-4.png
