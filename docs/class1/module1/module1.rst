@@ -7,4 +7,4 @@ Module 1:
    :maxdepth: 1
    :glob:
 
-   lab*
+   task*
