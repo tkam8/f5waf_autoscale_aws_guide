@@ -50,13 +50,13 @@ IAM Roleを作成
    リストをフィルタリングすることができます。以下のすべてのポリシーをフィルタリングし、
    そのチェックボックスをオンにします。終了したら、 **Next Step** をクリックします。
   
-  - AmazonEC2FullAccess
-  - IAMFullAccess
-  - AutoScalingFullAccess
-  - AmazonS3FullAccess
-  - CloudWatchFullAccess
-  - AmazonSNSFullAccess
-  - cloudformation-full-access (前の手順で作成されたポリシー)
+   - AmazonEC2FullAccess
+   - IAMFullAccess
+   - AutoScalingFullAccess
+   - AmazonS3FullAccess
+   - CloudWatchFullAccess
+   - AmazonSNSFullAccess
+   - cloudformation-full-access (前の手順で作成されたポリシー)
 
    |task-1-8|
 
@@ -102,7 +102,7 @@ WordPressサーバーへのロードバランシング用のAWS ELBを起動し�
 #. 以下のように **Health Check** を設定します。WordPressを利用する場合、 **Ping Path** のフィールドに 
    **「/」** を入力します。 **Next: Add EC2 Instances** をクリックします。
 
-|task-1-15|
+   |task-1-15|
 
 #. 両方のWordPressを選択し、 **Next: Add Tags** をクリックします。 
 
