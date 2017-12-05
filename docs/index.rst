@@ -17,7 +17,7 @@ https://github.com/tkam8/f5waf_autoscale_aws_guide
 - GitHubのリポジトリ上で `Issue <https://github.com/tkam8/f5waf_autoscale_aws_guide/issues>`_ を開く
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
    :glob:
 
