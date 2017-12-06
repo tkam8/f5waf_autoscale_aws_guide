@@ -58,6 +58,7 @@ IAM Roleを作成
    - AmazonSNSFullAccess
    - cloudformation-full-access (前の手順で作成されたポリシー)
 
+
    |task-1-8|
 
 #. **Role name** を入力し **Create role** をクリックします。 
