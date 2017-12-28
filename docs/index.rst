@@ -22,5 +22,5 @@ https://github.com/tkam8/f5waf_autoscale_aws_guide
    :glob:
 
    intro*
-   labinfo*
+   labinfo*/labinfo*
    class*/class*
